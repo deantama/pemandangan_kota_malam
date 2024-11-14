@@ -32,7 +32,7 @@ public class PemandanganKotaMalamRealistis extends JPanel {
           // Menambahkan teks nama kelompok di langit
           g2d.setPaint(Color.WHITE);
           g2d.setFont(new Font("Arial", Font.BOLD, 14));
-          g2d.drawString("Kelompok Pemandangan Kota Malam Realistis", 50, 50);
+          g2d.drawString("Kelompok Pemandangan Kota Malam", 50, 50);
   
           // Menambahkan teks nama anggota di langit
           g2d.drawString("1. Rizky Muhammad Anshori - 202143500817", 50, 70);
